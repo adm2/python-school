@@ -1,3 +1,4 @@
 Hello
 One more line
 Feature A
+New line in feature a
